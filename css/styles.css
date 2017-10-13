@@ -1,0 +1,32 @@
+#0, #1, #2{
+    width:500px;
+}
+.black{
+    width: 100px;
+    float: left;
+    height:100px;
+    background-color:black;
+    border: 1px solid green;
+}
+.white{
+    width: 100px;
+    float:left;
+    height:100px;
+    background-color:white;
+    border: 1px solid green;
+}
+#terrain{
+    width:550px;
+}
+.enemy{
+    background-image: url('/img/enemy.png');
+    background-repeat: no-repeat;
+    background-size: 70%;
+    background-position: center
+}
+.bomberman{
+    background-image: url('/img/bomber.png');
+    background-repeat: no-repeat;
+    background-size: 70%;
+    background-position: center
+}
